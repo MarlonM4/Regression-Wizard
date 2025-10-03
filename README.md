@@ -1,5 +1,5 @@
 
-```txt
+
 README
 ## **1. Descripción del Programa**  
 Regression Wizard es una herramienta de ajuste de modelos matemáticos diseñada para analizar datos experimentales mediante regresión no lineal. Permite ajustar múltiples modelos y evaluar su calidad mediante el coeficiente de determinación (R^2).  
@@ -15,7 +15,7 @@ Regression Wizard es una herramienta de ajuste de modelos matemáticos diseñada
 
 ---
 
-## **2. Requisitos del Sistema**  
+**2. Requisitos del Sistema**  
 - **Sistema Operativo:** Windows/macOS/Linux  
 - **Python:** 3.8 o superior  
 - **Librerías necesarias:**  
